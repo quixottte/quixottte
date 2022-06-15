@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity.
 - 🌱 I’m currently learning blue team operations.
 - 💞️ I’m looking to collaborate on cybersecurity projects.
-- 📫 You can reach me at milex.n@gmail.com
+- 📫 You can reach me at mohammedalsaeedd@outlook.sa
 
 <!---
 quixottte/quixottte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
